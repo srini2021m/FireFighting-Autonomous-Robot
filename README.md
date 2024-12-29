@@ -1,1 +1,1 @@
-# FireFighting-Autonomous-Robot
+This project was created in Spring 2023 as a collaborative course-based project. When used with a Romi Board, line sensors and an ultrasonic range finder, it allows for a team of 2 robots with one putting out fires and one doing rescues. 
